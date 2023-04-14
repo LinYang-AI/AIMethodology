@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin.yang/Documents/EPITA/Course/S2/AI%20Methodology/Project/mlruns/0/2db757dfc55c48cba9abf3aeb9472a71/artifacts
+end_time: 1681490319155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2db757dfc55c48cba9abf3aeb9472a71
+run_name: thundering-ox-128
+run_uuid: 2db757dfc55c48cba9abf3aeb9472a71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681490317365
+status: 3
+tags: []
+user_id: lin.yang
