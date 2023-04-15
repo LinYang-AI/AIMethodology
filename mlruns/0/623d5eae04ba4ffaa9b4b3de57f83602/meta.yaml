@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin.yang/Documents/EPITA/Course/S2/AI%20Methodology/Project/mlruns/0/623d5eae04ba4ffaa9b4b3de57f83602/artifacts
+end_time: 1680295675700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 623d5eae04ba4ffaa9b4b3de57f83602
+run_name: fortunate-stoat-43
+run_uuid: 623d5eae04ba4ffaa9b4b3de57f83602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680295675324
+status: 3
+tags: []
+user_id: lin.yang
