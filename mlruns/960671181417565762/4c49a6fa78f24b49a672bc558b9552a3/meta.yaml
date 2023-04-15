@@ -1,0 +1,15 @@
+artifact_uri: file://d:\master\s2\AI_meth\energy-consumption-AIMethodology-2023-AIS\mlruns/960671181417565762/4c49a6fa78f24b49a672bc558b9552a3/artifacts
+end_time: 1681570710251
+entry_point_name: ''
+experiment_id: '960671181417565762'
+lifecycle_stage: active
+run_id: 4c49a6fa78f24b49a672bc558b9552a3
+run_name: luminous-mouse-37
+run_uuid: 4c49a6fa78f24b49a672bc558b9552a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681570704624
+status: 4
+tags: []
+user_id: lin.yang

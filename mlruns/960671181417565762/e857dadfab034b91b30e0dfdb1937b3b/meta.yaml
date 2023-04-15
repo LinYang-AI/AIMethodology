@@ -1,0 +1,15 @@
+artifact_uri: file://d:\master\s2\AI_meth\energy-consumption-AIMethodology-2023-AIS\mlruns/960671181417565762/e857dadfab034b91b30e0dfdb1937b3b/artifacts
+end_time: 1681570379449
+entry_point_name: ''
+experiment_id: '960671181417565762'
+lifecycle_stage: active
+run_id: e857dadfab034b91b30e0dfdb1937b3b
+run_name: nimble-bug-191
+run_uuid: e857dadfab034b91b30e0dfdb1937b3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681570369042
+status: 3
+tags: []
+user_id: Maria

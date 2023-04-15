@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin.yang/Documents/EPITA/Course/S2/AI Methodology/Project/github/energy-consumption_AIMethodology_2023-AIS/mlruns/895323239743716977/6c46f221a4f045b2a641c55fc4928e1c/artifacts
+end_time: 1681570914105
+entry_point_name: ''
+experiment_id: '895323239743716977'
+lifecycle_stage: active
+run_id: 6c46f221a4f045b2a641c55fc4928e1c
+run_name: upbeat-cow-913
+run_uuid: 6c46f221a4f045b2a641c55fc4928e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681570908438
+status: 3
+tags: []
+user_id: lin.yang

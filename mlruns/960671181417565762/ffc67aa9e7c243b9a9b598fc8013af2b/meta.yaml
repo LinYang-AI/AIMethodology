@@ -1,0 +1,15 @@
+artifact_uri: file://d:\master\s2\AI_meth\energy-consumption-AIMethodology-2023-AIS\mlruns/960671181417565762/ffc67aa9e7c243b9a9b598fc8013af2b/artifacts
+end_time: 1681563808833
+entry_point_name: ''
+experiment_id: '960671181417565762'
+lifecycle_stage: active
+run_id: ffc67aa9e7c243b9a9b598fc8013af2b
+run_name: wise-pig-109
+run_uuid: ffc67aa9e7c243b9a9b598fc8013af2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681563801396
+status: 3
+tags: []
+user_id: Maria

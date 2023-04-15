@@ -1,0 +1,15 @@
+artifact_uri: file://d:\master\s2\AI_meth\energy-consumption-AIMethodology-2023-AIS\mlruns/960671181417565762/cbce62d049044ba589f83a5b607c220c/artifacts
+end_time: 1681570310617
+entry_point_name: ''
+experiment_id: '960671181417565762'
+lifecycle_stage: active
+run_id: cbce62d049044ba589f83a5b607c220c
+run_name: rebellious-mule-393
+run_uuid: cbce62d049044ba589f83a5b607c220c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681570298960
+status: 3
+tags: []
+user_id: Maria
