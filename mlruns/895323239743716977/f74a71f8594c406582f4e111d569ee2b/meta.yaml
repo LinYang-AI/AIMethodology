@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin.yang/Documents/EPITA/Course/S2/AI Methodology/Project/github/energy-consumption_AIMethodology_2023-AIS/mlruns/895323239743716977/f74a71f8594c406582f4e111d569ee2b/artifacts
+end_time: 1681586285601
+entry_point_name: ''
+experiment_id: '895323239743716977'
+lifecycle_stage: active
+run_id: f74a71f8594c406582f4e111d569ee2b
+run_name: sneaky-conch-347
+run_uuid: f74a71f8594c406582f4e111d569ee2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681586279387
+status: 3
+tags: []
+user_id: lin.yang
