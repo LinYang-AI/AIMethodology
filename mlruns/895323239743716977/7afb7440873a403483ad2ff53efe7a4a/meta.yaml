@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin.yang/Documents/EPITA/Course/S2/AI Methodology/Project/github/energy-consumption_AIMethodology_2023-AIS/mlruns/895323239743716977/7afb7440873a403483ad2ff53efe7a4a/artifacts
+end_time: 1681573999739
+entry_point_name: ''
+experiment_id: '895323239743716977'
+lifecycle_stage: active
+run_id: 7afb7440873a403483ad2ff53efe7a4a
+run_name: stylish-duck-98
+run_uuid: 7afb7440873a403483ad2ff53efe7a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681573993838
+status: 3
+tags: []
+user_id: lin.yang

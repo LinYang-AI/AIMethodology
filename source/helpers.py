@@ -1,9 +1,7 @@
 import os
 from typing import Tuple
-
 import pandas as pd
-
-from .constants import PATH_DATA
+from constants import PATH_DATA
 
 
 def load_data() -> Tuple[pd.DataFrame, pd.DataFrame]:
@@ -34,4 +32,3 @@ def split_features_target(df: pd.DataFrame, target_col: str = "site_eui") -> Tup
     print(f"Data have been split!")
 
     return features, target
-

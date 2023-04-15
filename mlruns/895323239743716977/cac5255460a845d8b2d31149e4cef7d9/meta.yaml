@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/lin.yang/Documents/EPITA/Course/S2/AI Methodology/Project/github/energy-consumption_AIMethodology_2023-AIS/mlruns/895323239743716977/cac5255460a845d8b2d31149e4cef7d9/artifacts
+end_time: 1681573927368
+entry_point_name: ''
+experiment_id: '895323239743716977'
+lifecycle_stage: active
+run_id: cac5255460a845d8b2d31149e4cef7d9
+run_name: mysterious-finch-334
+run_uuid: cac5255460a845d8b2d31149e4cef7d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681573921307
+status: 3
+tags: []
+user_id: lin.yang
