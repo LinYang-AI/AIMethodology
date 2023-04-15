@@ -1,7 +1,7 @@
 import os
 from typing import Tuple
 import pandas as pd
-from constants import PATH_DATA
+from .constants import PATH_DATA
 
 
 def load_data() -> Tuple[pd.DataFrame, pd.DataFrame]:
