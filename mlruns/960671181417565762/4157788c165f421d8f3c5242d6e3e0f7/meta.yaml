@@ -1,0 +1,15 @@
+artifact_uri: file://d:\master\s2\AI_meth\energy-consumption-AIMethodology-2023-AIS\mlruns/960671181417565762/4157788c165f421d8f3c5242d6e3e0f7/artifacts
+end_time: 1681565257692
+entry_point_name: ''
+experiment_id: '960671181417565762'
+lifecycle_stage: active
+run_id: 4157788c165f421d8f3c5242d6e3e0f7
+run_name: traveling-skunk-309
+run_uuid: 4157788c165f421d8f3c5242d6e3e0f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681565250449
+status: 3
+tags: []
+user_id: Maria
