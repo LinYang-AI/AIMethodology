@@ -1,3 +1,5 @@
+This is a MLflow practice for a naive ML model in production based on class <AI Methodology> of EPITA-2023 for AIS program.
+
 ## Data Dictionary
 
 ### Covariates
